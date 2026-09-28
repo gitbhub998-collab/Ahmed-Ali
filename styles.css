@@ -108,7 +108,7 @@
 }
 
 .hero {
-	background: #050505 url("./assets/back.jpg") center 54% / cover no-repeat;
+	background: #050505 url("/assets/back.jpg") center 54% / cover no-repeat;
 }
 
 .hero::before {
